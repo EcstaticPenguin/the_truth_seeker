@@ -5,7 +5,11 @@ body {
 
 }
 p {
-    text-align: left;
+  text-align: left;
+}
+
+li {
+  text-align: left;
 }
 
 .title {
